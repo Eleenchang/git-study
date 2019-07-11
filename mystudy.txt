@@ -1,4 +1,6 @@
 git studey naearly finished all the patrs int he lab
 -------------
 
+create a dev branch on the local  and push it to the remote
+
 
